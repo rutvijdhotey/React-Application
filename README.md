@@ -11,4 +11,7 @@ The things i learnt from this project are :
 4. Node npm server hosting
 5. Basics of the React Library with initial rendering methods
  
+The working example : 
+
+![Alt text](/Users/rutvijdhotey/Dropbox/Screenshots/1.png)
 
