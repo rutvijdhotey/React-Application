@@ -13,5 +13,5 @@ The things i learnt from this project are :
  
 The working example : 
 
-![Alt text](/Users/rutvijdhotey/Dropbox/Screenshots/1.png)
+![Alt text](/React-Application/Sample/1.png)
 
