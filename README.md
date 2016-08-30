@@ -13,5 +13,5 @@ The things i learnt from this project are :
  
 The working example : 
 
-![Alt text](/React-Application/Sample/1.png)
+![Alt text](/React-Application/blob/master/Sample%20/1.png)
 
