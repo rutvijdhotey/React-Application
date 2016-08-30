@@ -1,0 +1,38 @@
+{
+  "name": "sticky-board",
+  "version": "1.0.0",
+  "description": "A React Application ",
+  "main": "Note.js",
+  "scripts": {
+    "build": "babel js -d built",
+    "start": "open http://localhost:3000 & httpster -p 3000"
+  },
+  "babel": {
+    "presets": [
+      "react"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rutvijdhotey/React-Application.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "bulletin-board",
+    "sticky-board"
+  ],
+  "author": "Rutvij Dhotey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rutvijdhotey/React-Application/issues"
+  },
+  "homepage": "https://github.com/rutvijdhotey/React-Application#readme",
+  "devDependencies": {
+    "babel-cli": "^6.4.0",
+    "babel-preset-react": "^6.3.13"
+  },
+  "dependencies": {
+    "httpster": "^1.0.3"
+  }
+}
